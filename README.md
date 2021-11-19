@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MichelTX
-- 👀 I’m interested in ...code,technology
-- 🌱 I’m currently learning ...HTML,Java
+- 👋 Olá,meu nome é Michel Teixeira.
+- 👀Atualmente estou estudando na Açura Curso.
+- 🌱
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
