@@ -1,5 +1,5 @@
- Olá,meu nome é Michel Teixeira.
- Atualmente estou estudando na Alura Cursos.
+ #Olá,meu nome é Michel Teixeira.
+ #Atualmente estou estudando na Alura Cursos.
 
  I’m looking to collaborate on ...
 -How to reach me ...
