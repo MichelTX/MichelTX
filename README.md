@@ -2,8 +2,7 @@
 	
  #Atualmente estou estudando na Alura Cursos.
 
- I’m looking to collaborate on ...
--How to reach me ...
+
 
 <!---
 MichelTX/MichelTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
