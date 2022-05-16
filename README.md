@@ -3,7 +3,7 @@
 <h2> Atualmente estou estudando na Alura Cursos.</h2>
  
  
- <h2>..Estou estudando Front-end.<h2>
+ <h2>Estou estudando Front-end.<h2>
  
  <div align="center">
   <a href="https://github.com/MichelTX">
