@@ -1,6 +1,6 @@
  <h1>Olá,meu nome é Michel Teixeira.</h1>
 	
-<h2> Atualmente estou estudando na Alura Cursos.</h2>
+
  
  
  <h2>Estou estudando Front-end.<h2>
